@@ -87,39 +87,55 @@ Comumente usado em análises estatísticas e bancos de dados.
 -----------------------------------------------------------------------------------------------------------------------------------
 Trabalho 3 - Thamyres Mussi 
 
-Python, Scratch e JavaScript são todas linguagens de programação amplamente utilizadas, mas têm diferentes propósitos, sintaxes e 
+1-Python,JavaScript e GO são todas linguagens de programação amplamente utilizadas, mas têm diferentes propósitos, sintaxes e 
 público alvo.
 
 A primeira diferença a ser considerada seria o propósito e aplicação de cada um, a linguagem Python é de propósito geral e é 
 conhecida por sua legibilidade e simplicidade. É usada em uma ampla gama de domínios, incluindo desenvolvimento web, ciência de 
-dados, automação, aprendizado de máquina e desenvolvimento de jogos.Já o Scratch É uma linguagem visual projetada para ensinar
-programação a crianças e iniciantes, que se utiliza uma interface gráfica de blocos de código que os usuários podem arrastar e 
-soltar para criar programas simples. O Scratch é frequentemente usado em ambientes educacionais para promover o pensamento
-computacional e a resolução de problemas.O JavaScript é uma linguagem de script usada principalmente para criar interatividade em páginas da web. Ela é executada no
+dados, automação, aprendizado de máquina e desenvolvimento de jogos.O JavaScript é uma linguagem de script usada principalmente para criar interatividade em páginas da web. Ela é executada no
 lado do cliente (navegador), permitindo que os desenvolvedores criem páginas da web dinâmicas e responsivas. Além do
 desenvolvimento web, o JavaScript também é usado no desenvolvimento de aplicativos de servidor (Node.js), jogos e aplicativos de
-desktop (com ferramentas como Electron).
+desktop (com ferramentas como Electron).Go é uma linguagem de programação projetada pelo Google com foco em simplicidade,
+eficiência e facilidade de uso. Ela foi criada para resolver problemas enfrentados pelos desenvolvedores na construção de 
+sistemas de software modernos, especialmente em ambientes de computação distribuída e concorrência.
 
 Em relação a sintaxe as distinções são:
 Python: Tem uma sintaxe limpa e legível que se assemelha ao pseudocódigo.
-Scratch: Utiliza uma interface gráfica de blocos de código coloridos que representam diferentes comandos e estruturas de controle.
-Não requer digitação de texto, tornando-o acessível para crianças e iniciantes.
 JavaScript: Possui uma sintaxe flexível e dinâmica. É uma linguagem fracamente tipada, o que significa que os tipos de variáveis
 são inferidos dinamicamente durante a execução do programa. Também possui recursos de orientação a objetos baseados em protótipos.
+ Go: A sintaxe é limpa e minimalista, com uma abordagem que visa reduzir a complexidade e a ambiguidade.
+Algumas características  são a Utilização de pacotes para organizar código, Declaração de variáveis com tipo explícito ou inferido,
+Estruturas de controle familiares, como loops e condicionais.
+
 
 Paradigma de Programação:
 Python: Suporta múltiplos paradigmas, incluindo programação orientada a objetos, programação imperativa e programação funcional.
-Scratch: Baseia-se principalmente em paradigmas de programação visual e eventos. Os programas são construídos combinando blocos 
-de código que representam ações e eventos.
 JavaScript: É uma linguagem multiparadigma, suportando programação orientada a objetos, programação imperativa e programação 
 funcional. Também é conhecida por suportar programação assíncrona por meio de callbacks, promises e async/await.
+ Go: é uma linguagem de programação moderna com um foco em eficiência, concorrência e simplicidade, 
+destinada a uma ampla variedade de desenvolvedores que buscam construir sistemas de software robustos e escaláveis
 
 Em relação ao público alvo as principais diferenças são:
 Python: É usado por uma ampla variedade de profissionais de desenvolvimento de software, cientistas de dados, pesquisadores e
 engenheiros de software.
-Scratch: É projetado especificamente para crianças e iniciantes, embora também possa ser útil para adultos que estão aprendendo 
-a programar pela primeira vez.
 JavaScript: É usado por desenvolvedores web, engenheiros de software, desenvolvedores de jogos e muitos outros profissionais de 
 TI.
+Go: foi projetado para ser uma linguagem acessível e eficaz para uma ampla gama de desenvolvedores. Seu público-alvo inclui
+Desenvolvedores de software interessados em construir aplicativos de alto desempenho e escaláveis.
+Engenheiros de sistemas envolvidos na construção de infraestrutura de backend para serviços de internet.
+Programadores que lidam com problemas de concorrência e paralelismo, como em servidores web e sistemas distribuídos.
+Pessoas que buscam uma alternativa eficiente e moderna para linguagens mais antigas, como C e C++.
+
+1-a) Python : print("Olá, tudo bem?)"
+
+JavaScript: console.log("Olá, mundo!")
+
+GO: package main
+
+import "fmt"
+
+func main() {
+fmt.Println("Olá, mundo!")
+}
 
 
