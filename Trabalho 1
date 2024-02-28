@@ -45,5 +45,44 @@ Brasil um cenário de segurança jurídica acerca dos dados pessoais nos meios f
 Logo percebe-se uma direta relação entre os Data Centers e a LGPD , isso pois o primeiro é o local onde rodam os sistemas nos 
 quais são instalados e mantidos os dados pessoais, portanto, este deve operar conforme o ditado pela LGPD.
 
-Outro aspecto relevantes 
+A LGPD exige que as organizações tenham contratos claros e específicos com os provedores de serviços, incluindo os
+Data Centers, para garantir que estes atendam aos requisitos de segurança e privacidade estabelecidos pela lei. Isso inclui a
+definição de responsabilidades, garantias de conformidade, procedimentos de notificação de violações de dados, entre outros
+aspectos.Portanto, os Data Centers no Brasil estão sujeitos às disposições da LGPD e devem adotar medidas adequadas para garantir a
+conformidade com a lei e a proteção dos dados pessoais dos usuários e clientes. Isso inclui investimentos em infraestrutura 
+de segurança, adoção de melhores práticas de gestão de dados e a implementação de políticas e procedimentos que estejam alinhados
+com os requisitos da LGPD.
+
+ b) Formatos aberto, no contexto da informática , irá indicar uma especificação técnica de domínio público, que é utilizada para a
+descrição e armazenamento de dados digitais, livre de restrições legais para seu uso.O principal intuito desses formatos é garantir 
+acesso aos dados a longo prazo sem inseguranças jurídicas ou  restrições devidas às especificações técnicas, além deste, outro
+objetivo é incentivar a concorrência, diferentemente do formato proprietário que permite que um único fabricante detenha o controle.
+Um formato proprietário é o Formato de arquivo que é coberto por uma patente ou copyright, eles são, na verdade, controlados e 
+definidos por interesses privados.Com este formato, o usuário corre o risco de perder todas as informações contidas no arquivo
+caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las.
+
+ b1-Formatos Abertos:
+
+-CSV (Comma-Separated Values):Um formato de arquivo simples que armazena dados em formato de texto, separados por vírgulas.
+Amplamente utilizado devido à sua simplicidade e interoperabilidade.
+
+-JSON (JavaScript Object Notation):Um formato de texto para representar objetos de dados, comumente usado para transmitidos
+dados entre um servidor e um navegador da web.
+Estrutura hierárquica de chave-valor.
+
+-XML (Extensible Markup Language):Uma linguagem de marcação para documentos que contêm dados estruturados.
+É legível por humanos e por máquinas, facilitando a troca de dados entre sistemas heterogêneos.
+
+Formatos proprietários:
+
+Excel (.xls, .xlsx):Proprietário da Microsoft.
+Amplamente utilizado para planilhas e dados tabulares.
+
+SPSS (.sav):Proprietário da IBM.
+Usado para armazenar dados estatísticos e análises.
+
+SAS (.sas7bdat):Proprietário da SAS Institute.
+Comumente usado em análises estatísticas e bancos de dados.
+
+
 
