@@ -178,3 +178,33 @@ else:
 Você é maior de idade.
 
 [Execution complete with exit code 0]
+
+exercício:
+
+cont= 4
+while cont < 12:
+ print ("valor do contador:", cont)
+ cont=cont + 2
+
+seq = [0, 'casa' , 36, 'rosa']
+for coisa in seq: 
+ print(coisa)
+ if coisa == 'rosa':
+  print('É um adjetivo')
+print("terminou")
+
+--------------------------------------------------------------------------------------------------------------------------------
+Trabalho 5 
+
+captura de câmara adicionadas ao repositório
+
+1-
+def bubble_sort(arr):
+    n = len(arr) 
+    
+arr = [64, 34, 25, 12, 22, 11, 90]
+print("Array original:", arr)
+
+bubble_sort(arr)
+print("Array ordenado:", arr)
+
