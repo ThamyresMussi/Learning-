@@ -146,3 +146,35 @@ ________________________________________________________________________________
 Trabalho semana 4 
 
 captura de câmara adicionadas ao repositório
+
+ESTRUTURA DE REPETIÇÃO:
+
+for i in range(1, 11):
+    print(i)
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+
+ESTRUTURA DE TOMADA DE DECISÃO:
+idade = 25
+
+if idade >= 18:
+
+  print("Você é maior de idade.")
+
+else:
+
+ print("Você é menor de idade.")
+
+Você é maior de idade.
+
+[Execution complete with exit code 0]
