@@ -208,3 +208,17 @@ print("Array original:", arr)
 bubble_sort(arr)
 print("Array ordenado:", arr)
 
+
+2- def Check_Vow(string, vowels): 
+    final = [each for each in string if each in vowels] 
+    print(len(final)) 
+    print(final) 
+      
+string = "Geeks for Geeks"
+vowels = "AaEeIiOoUu"
+Check_Vow(string, vowels)
+
+5
+['e', 'e', 'o', 'e', 'e']
+
+[Execution complete with exit code 0]
