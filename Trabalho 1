@@ -313,8 +313,12 @@ Digite números para adicionar a lista ( digite 'done' para terminar):
 3
 done
 ----------------------------------------------------------------------------------------------------------------------------------------------
+TRABALHO 9 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 EXERCÍCIOS 08/05
-Trabalho 9 
+Trabalho 10 
 
 EXEMPLOS:
 f = open ( 'meu_arquivo.txt', 'w')
@@ -469,3 +473,27 @@ def encontrar_nome_por_numero():
 
 # Chama a função para encontrar o nome correspondente ao número
 encontrar_nome_por_numero()
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+TRABALHO 11 15/05/2024
+
+A) def bombons (dinheiro,preço):
+    n_bombons = dinheiro // preço
+    troco = dinheiro % preço
+    return n_bombons, troco
+
+Resultado:
+bombons (10,3)
+(3, 1)
+bombons (20,3)
+(6, 2)
+
+
+def a_bombom (dinheiro,preço):
+    qtd,troco = bombons (dinheiro,preço)
+    return preço - troco
+
+a_bombons(10,3)
+a_bombons(20,3)
+
+
